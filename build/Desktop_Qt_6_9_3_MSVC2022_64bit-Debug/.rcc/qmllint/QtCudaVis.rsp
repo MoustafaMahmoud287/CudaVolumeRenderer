@@ -1,0 +1,10 @@
+--bare
+-I
+C:/Users/MILLIONAIRE/Desktop/CudaVolumeRenderer/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug
+-I
+C:/Qt/6.9.3/msvc2022_64/qml
+--resource
+C:/Users/MILLIONAIRE/Desktop/CudaVolumeRenderer/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_MyVolRender.qrc
+--resource
+C:/Users/MILLIONAIRE/Desktop/CudaVolumeRenderer/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug/.qt/rcc/QtCudaVis_raw_qml_0.qrc
+C:/Users/MILLIONAIRE/Desktop/CudaVolumeRenderer/main.qml

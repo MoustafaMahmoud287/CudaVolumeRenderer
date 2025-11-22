@@ -1,0 +1,5 @@
+module MyVolRender
+typeinfo QtCudaVis.qmltypes
+prefer :/MyVolRender/
+depends QtQuick
+
