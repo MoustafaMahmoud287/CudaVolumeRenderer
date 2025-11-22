@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/MyVolRender/">
-    <file alias="main.qml">C:/Users/MILLIONAIRE/Desktop/CudaVolumeRenderer/main.qml</file>
-  </qresource>
-</RCC>
-

@@ -1,1 +1,0 @@
-C:/Users/MILLIONAIRE/Desktop/CudaVolumeRenderer/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug/QtCudaVis_autogen/include/../6YEA5652QU/moc_VolumeItem.cpp.json
