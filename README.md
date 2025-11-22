@@ -6,6 +6,7 @@
 ![Tech](https://img.shields.io/badge/Qt-6.8-green)
 ![Tech](https://img.shields.io/badge/CUDA-12-76B900)
 
+https://github.com/MoustafaMahmoud287/CudaVolumeRenderer/blob/main/assets/Screen%20Recording%202025-11-22%20124635.mp4
 > *Real-time volumetric rendering of 8-bit raw medical datasets using a custom CUDA ray-marching kernel.*
 
 ## 📖 Overview
